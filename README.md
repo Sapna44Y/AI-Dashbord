@@ -1,3 +1,4 @@
+Gen AI Analytics Project:-
 This Gen AI Analytics Tool is a natural language-powered business intelligence dashboard that enables non-technical users to query complex datasets using plain English. It eliminates the need for SQL or data expertise by allowing users to:
 
 •Ask business questions in natural language (e.g., "Show me sales trends by region last quarter")
